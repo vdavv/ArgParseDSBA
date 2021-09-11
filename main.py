@@ -1,0 +1,1 @@
+print('Result of task')
