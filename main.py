@@ -1,4 +1,2 @@
-import nb_black
-
-print('Result of task')
-#first change
+# black got to work!
+print("Result of task")
